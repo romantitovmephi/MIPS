@@ -17,9 +17,9 @@ Supported Instructions:
 
 `./blocks` - the folder stores the instruction memory, data memory, and register file files. They can be used to examine the contents of the corresponding memory after the program has been executed.
 
-`./src` systemverilog-modules of the processor are stored in the folder
+`./src` - systemverilog-modules of the processor are stored in the folder
 
-`./test` the test module for the processor is stored in the folder
+`./test` - the test module for the processor is stored in the folder
 
 
 
