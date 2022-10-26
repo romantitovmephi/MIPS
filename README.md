@@ -5,11 +5,7 @@ The processor consists of a data path and a control unit. The control device, in
 
 Supported Instructions:
 
-`add sub and or xor beq bne sll srl`
-
-`addi andi ori xori lw sw`
-
-`j jr jal`
+`add addi sub and or beq bne`
 
 
 ## Structure
